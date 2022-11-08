@@ -11,7 +11,9 @@ list_pc = list(map(float, per_cent.values()))
 deposit = [round(money*list_pc[0]/100, 4), round(money*list_pc[1]/100, 4), round(money*list_pc[2]/100, 4), round(money*list_pc[3]/100, 4)]
 print("В этих банках вы можете заработать", deposit)
 
-# максимальный заработок и его вывод на экран
+# максимальный заработок и его вывод на экранpo[p[]][][][][
+
+kjpiopoiopp
 print("Максимальная сумма, которую вы можете заработать —", max(deposit))
 
 
